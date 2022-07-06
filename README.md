@@ -7,7 +7,7 @@
 
 ##### Languages I use:
 
-![C#](https://img.shields.io/badge/-C-Sharp-000000?style=flat&logo=c-sharp)
+![C#](https://img.shields.io/badge/-CSharp-000000?style=flat&logo=csharp)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
