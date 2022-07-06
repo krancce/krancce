@@ -6,7 +6,7 @@
 
 - 🙍‍♂️I'm a Computer Science new-grad from uOttawa (Apr.2022) 
 - 🔍Seeking for Unity 3D Development related jobs and opportunities
-- 📕I'm currently learning about Algorithms
+- 📕Check out my portfolio [here](https://krancce.github.io/)
 
 ##### Programming Languages I use:
 
