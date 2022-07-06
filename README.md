@@ -1,16 +1,17 @@
 ##### Hi, I'm Xavier:
 
 
-- 🙍‍♂️Computer Science Student at University of Ottawa
-- ✨Seeking an internship
-- 🌱I'm currently learning about Algorithms
+- 🙍‍♂️I'm a Computer Science new-grad from uOttawa (Apr.2022) 
+- 🔍Seeking for Unity 3D Development related jobs and opportunities
+- 📕I'm currently learning about Algorithms
 
 ##### Languages I use
 
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 ##### Some of the technologies I have worked with
