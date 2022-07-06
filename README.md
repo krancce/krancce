@@ -5,14 +5,16 @@
 - 🔍Seeking for Unity 3D Development related jobs and opportunities
 - 📕I'm currently learning about Algorithms
 
-##### Languages I use
+##### Languages I use:
 
 ![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krancce&theme=blue-green)
+
+![C#](https://img.shields.io/badge/-C#-000000?style=flat&logo=C#)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+
 
 ##### Some of the technologies I have worked with
 
