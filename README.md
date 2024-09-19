@@ -4,8 +4,7 @@
 
 ##### Hi, I'm Xavier:
 
-- 🙍‍♂️I'm a Computer Science new-grad from uOttawa (Apr.2022) 
-- 🔍Seeking for Unity 3D Development related jobs and opportunities
+- 🔍Seeking for Software/Game/XR/ML jobs and opportunities
 - 📕Check out my portfolio [here](https://krancce.github.io/)
 
 ##### Programming Languages I use:
@@ -15,7 +14,6 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=go)
 
 ##### Software Development Tools I have worked with:
 
