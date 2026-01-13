@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/krancce/your-repo-name/main/assets/preview.png"/>
+      <img src="assets/Depin.png" width="700" />
     </td>
     <td width="50%">
       <h3>🎯 Depin（Professional Social Platform）</h3>
@@ -36,7 +36,7 @@
         <b>Tech Stack:</b> Next.js, Spring Boot, Supabase, Vervel, Render
       </p>
       <p>
-        👉 <a href="https://www.depin.careers/">Visit Website</a>
+        👉 <a href="https://www.depin.careers/">Visit the website</a>
       </p>
     </td>
   </tr>
